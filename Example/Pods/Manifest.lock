@@ -1,0 +1,16 @@
+PODS:
+  - PXQWebImage (0.1.0)
+
+DEPENDENCIES:
+  - PXQWebImage (from `../`)
+
+EXTERNAL SOURCES:
+  PXQWebImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PXQWebImage: 33ac9def908babf4008de0c89a5775d6a41c7843
+
+PODFILE CHECKSUM: 1dd56dd86c28868a7e2fdc127533028566005ec2
+
+COCOAPODS: 1.10.0

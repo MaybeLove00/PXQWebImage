@@ -1,0 +1,6 @@
+framework module PXQWebImage {
+  umbrella header "PXQWebImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
